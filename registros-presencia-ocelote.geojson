@@ -1,0 +1,4505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.358795,
+                    8.76312
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-01-08T20:12",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.072136,
+                    9.868216
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-02-15T21:52",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.792229,
+                    10.357254
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-02-15T08:29:13",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.072136,
+                    9.868216
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-02-15T21:52",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.417847,
+                    8.429842
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-02-17T20:57:55",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.068289,
+                    9.813608
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-02-29T09:58:19",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.334288,
+                    10.347842
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-03-03T08:04:58",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.336503,
+                    10.345897
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-03-03T09:32:05",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.334228,
+                    10.347867
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-03-03T08:08:27",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.430545,
+                    9.792303
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-03-24T23:11",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.785511,
+                    10.446409
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-03-19T23:00",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.648867,
+                    9.890645
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-04-05T18:31:50",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.768074,
+                    10.193915
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-05-10T19:41",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.169686,
+                    9.938617
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-05-20T02:26",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.683236,
+                    10.000671
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-05-09T18:06",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.570708,
+                    10.858163
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-06-03T13:15:30",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.878531,
+                    9.685316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-06-05T21:07",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.025833,
+                    10.272467
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-06-09T10:01:55",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.004577,
+                    10.431207
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-06-22T00:54",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.002861,
+                    10.430843
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-06-24T04:57",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.858171,
+                    9.668412
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-07-10T01:57",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.795268,
+                    10.304266
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-08-07T15:38:57",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.858061,
+                    9.740033
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-10-10T06:28:17",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.445862,
+                    8.606983
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-10-28T09:38:42",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.444034,
+                    8.605859
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2024-10-28T09:38:43",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57318,
+                    10.73641
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58434,
+                    10.71595
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.289708,
+                    8.387461
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-16T21:17",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.343174,
+                    10.762941
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-01-23",
+                "locality": "CG-PAI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-02-10",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49311,
+                    8.81811
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-02-21",
+                "locality": "SIERPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-02-22",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-02-22",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-02-28",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-02-15",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-08",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57655,
+                    10.73542
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57655,
+                    10.73542
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57655,
+                    10.73542
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5942,
+                    10.7154
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57655,
+                    10.73542
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-18",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-23",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.69897,
+                    8.6694
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-23",
+                "locality": "LOS PLANES, DRAKE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-27",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-27",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-28",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-29",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-31",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.455473,
+                    8.639392
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-07T16:17:12",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.640597,
+                    10.37163
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-05T04:38",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.72731,
+                    10.329257
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-06T05:15",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.734554,
+                    10.293922
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-06T04:44",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.608598,
+                    10.341556
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-03-06T21:13",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-03",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-04",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-04",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-06",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-08",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-08",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-08",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57413,
+                    8.67496
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-08",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-10",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49311,
+                    8.81811
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-10",
+                "locality": "SIERPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57655,
+                    10.73542
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-11",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-11",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-12",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-14",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-16",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-17",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-18",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-18",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49311,
+                    8.81811
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-20",
+                "locality": "SIERPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-21",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.69897,
+                    8.6694
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-23",
+                "locality": "LOS PLANES, DRAKE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-24",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-27",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.553343,
+                    10.121731
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-28T07:19",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-25",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-17",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.343174,
+                    10.762941
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-04-25",
+                "locality": "CG-PAI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-01",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-02",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-02",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-02",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-02",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-03",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-03",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-03",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-04",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-06",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-10",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-12",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-14",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-15",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-16",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-16",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-17",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-17",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-18",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-19",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-19",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-20",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.223282,
+                    9.959587
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-05T14:20",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.30513,
+                    10.539813
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-20T15:27:46",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-26",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-13",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-05",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.343174,
+                    10.762941
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-05-21",
+                "locality": "CG-PAI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57304,
+                    8.67664
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-06-04",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.641336,
+                    9.109663
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-06-18T20:27:58",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.007056,
+                    10.714064
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-06-13T09:09",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.362842,
+                    10.118688
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-07-05T08:35:38",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.206241,
+                    9.897284
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-07-22T20:11:38",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.34314,
+                    8.622821
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-07-25T21:30",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-07-07",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-08-17",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-08-18",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-08-29",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.561349,
+                    10.122824
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-20",
+                "locality": "Siquirres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.561349,
+                    10.122824
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-20",
+                "locality": "Siquirres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-15",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-13",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-23",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-17",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-24",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-09-22",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.813477,
+                    9.69372
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-10-27T17:18:51",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.007143,
+                    10.430514
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-10-31T21:04",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-10-15",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-10-16",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.343174,
+                    10.762941
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-10-21",
+                "locality": "CG-PAI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-11-18",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-11-16",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.338753,
+                    8.404278
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-12-10T01:29:54",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2023-12-12",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.53547,
+                    8.75427
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-02-23",
+                "locality": "OSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.702904,
+                    10.435938
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-02-01T15:38:33Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.708005,
+                    10.439739
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-02-24T04:04",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49307,
+                    8.70573
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-03-17",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-08",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-08",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-08",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-08",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.022373,
+                    10.418203
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-04-28T19:53",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-03",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-03",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-03",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49307,
+                    8.70573
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-18",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49307,
+                    8.70573
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-18",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49307,
+                    8.70573
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-25",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-27",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-27",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-27",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-31",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-31",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-31",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.631163,
+                    8.68922
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-05T03:03",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.594657,
+                    10.727115
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-05-18T20:15",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.179177,
+                    8.81328
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-08-02T16:03:49",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.061775,
+                    9.864578
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-08-28T11:18:15",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.782706,
+                    10.158021
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-09-22T22:06:05",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.232623,
+                    9.909449
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-11-21T22:07",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5942,
+                    10.7154
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-12-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57561,
+                    10.71445
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-12-28",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57318,
+                    10.73641
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2022-12-31",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.597682,
+                    8.478535
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-01-02T06:42:09",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.406594,
+                    9.603693
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-01-22T06:51",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49971,
+                    8.69671
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-03-07",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57422,
+                    8.6847
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-03-13",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49971,
+                    8.69671
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-04-02",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55255,
+                    8.704
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-04-08",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52418,
+                    8.73739
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-04-19",
+                "locality": "BAJO SAN JUAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49971,
+                    8.69671
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-05-07",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52418,
+                    8.73739
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-05-13",
+                "locality": "BAJO SAN JUAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52418,
+                    8.73739
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-05-13",
+                "locality": "BAJO SAN JUAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49971,
+                    8.69671
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-05-24",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.470129,
+                    11.049293
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-05-12T07:37:27",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.475477,
+                    8.673717
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-05-12",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49317,
+                    8.70559
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-06-19",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-06-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.217745,
+                    9.747438
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-06-01T11:45:30Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.996605,
+                    10.70198
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-06-23T10:55Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.007923,
+                    10.715132
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-07-01T19:28:25Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.582998,
+                    10.876837
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-09-21T17:27",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.610634,
+                    10.859814
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-10-16T17:06:39",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.629044,
+                    10.496224
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-11-08T18:18:02",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.336273,
+                    8.395056
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-11-01T08:55:25",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55179,
+                    8.463965
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2021-12-06T13:27:29Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.102224,
+                    8.593898
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-01-26T09:17:36",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.520869,
+                    9.732353
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-02-10T12:17",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.520869,
+                    9.732353
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-02-24T12:25",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.520869,
+                    9.732353
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-02-20T12:25",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.47666,
+                    8.74332
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-02-23",
+                "locality": "BAHIA CHAL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.217148,
+                    8.268703
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-02-04T02:19",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.32932,
+                    8.40959
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-02-28T12:38",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-28",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58641,
+                    10.747174
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-05",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58641,
+                    10.747174
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-06",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.58641,
+                    10.747174
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-15",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.47666,
+                    8.74332
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-08",
+                "locality": "BAHIA CHAL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.000376,
+                    9.731756
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-02T15:49:11Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.753428,
+                    9.748917
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-03-10T17:57",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-04-01",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-04-21",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-04-21",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52216,
+                    8.68169
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-04-04",
+                "locality": "BANEGAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-05-13",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-05-18",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-05-18",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50166,
+                    8.69623
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-05-17",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.51392,
+                    8.65507
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-05-28",
+                "locality": "BANEGAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-06-02",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-06-11",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-06-11",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.581042,
+                    10.750751
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-06-11",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-07-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.51392,
+                    8.65507
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-07-09",
+                "locality": "BANEGAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.51392,
+                    8.65507
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-07-14",
+                "locality": "BANEGAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.51392,
+                    8.65507
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-07-26",
+                "locality": "BANEGAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.811357,
+                    10.304527
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-07-06T16:47",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-08-13",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50166,
+                    8.69623
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-08-21",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.826978,
+                    9.733884
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-08-10T19:34:16",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-09-26",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-10-18",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.973446,
+                    10.607369
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-10-29T18:30",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.553096,
+                    10.121712
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-11-29T21:27:48Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.784176,
+                    9.642406
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2020-12-13T03:47",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-01-01",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-01",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-15",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-15",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-15",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-18",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-18",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-18",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-24",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-28",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-28",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-28",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-28",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-28",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-28",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.520869,
+                    9.732353
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-22T12:25",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.639285,
+                    10.191534
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-02-13T13:53:04",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-09",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52247,
+                    8.68312
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "BANEGAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-25",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-26",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-27",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-29",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-29",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-29",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.355003,
+                    10.004927
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-09",
+                "locality": "Work with Nature - Reserve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-03-29",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Leopardus pardalis",
+                "eventDate": "2019-04-03",
+                "locality": "RANCHO QUEMADO"
+            }
+        }
+    ]
+}

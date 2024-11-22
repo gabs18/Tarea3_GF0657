@@ -1,0 +1,3485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.107174,
+                    9.567627
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-01-06T12:34:16",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.092885,
+                    9.587534
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-01-28T14:51",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.092885,
+                    9.587534
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-01-30T11:47",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.010025,
+                    10.436928
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-02-23T12:11:01",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.068877,
+                    9.811892
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-02-29T10:23:18",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.732378,
+                    8.639435
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-02-20T12:22:26",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.470609,
+                    10.028272
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-03-20T07:26",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.781883,
+                    9.703638
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-05-05T08:02:05",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.057788,
+                    9.870732
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-05-04T16:47:34",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.729549,
+                    8.638793
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-05-16",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.060768,
+                    9.865877
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-07-15T12:26:50",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.00935,
+                    10.429334
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-08-26T21:26",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.546646,
+                    8.531232
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-09-06T14:54:21",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.381533,
+                    9.614115
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-10-02T05:41",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.608252,
+                    10.876291
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2024-10-04",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-01-23",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49311,
+                    8.81811
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-02-18",
+                "locality": "SIERPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49311,
+                    8.81811
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-02-18",
+                "locality": "SIERPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49311,
+                    8.81811
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-02-22",
+                "locality": "SIERPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-02-23",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.176346,
+                    10.69997
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-02-16",
+                "locality": "CG-AMP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.858868,
+                    9.303049
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-03-31T07:19:04",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-03-03",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.115868,
+                    10.411692
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-04-12T10:09:52",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-05-19",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-05-18",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49329,
+                    8.70584
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-05-23",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.29222,
+                    8.379349
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-06-11T13:48:20",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.363318,
+                    8.751061
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-06-30T10:48",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49329,
+                    8.70584
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-06-09",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49329,
+                    8.70584
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-06-09",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49329,
+                    8.70584
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-06-19",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49329,
+                    8.70584
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-06-19",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.577721,
+                    9.471794
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-07-13T20:35",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-07-16",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-07-31",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-08-20",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-08-30",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.825205,
+                    9.236382
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-09-15T11:47",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-09-16",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-09-18",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-09-19",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.60463,
+                    9.774725
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-10-03T09:09:02",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.577372,
+                    9.093135
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-10-16T11:32:57",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.343174,
+                    10.762941
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-10-19",
+                "locality": "CG-PAI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.348022,
+                    10.324298
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-11-21T08:43:34",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147,
+                    10.819316
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-11-16",
+                "locality": "CG-BOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.713924,
+                    10.294338
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-12-27T13:00:04",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.762271,
+                    8.625625
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2023-12-24T10:02",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.734288,
+                    8.619177
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-01-10T11:48:59",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52402,
+                    8.74288
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-03-08",
+                "locality": "BAJO SAN JUAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49377,
+                    8.70544
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-03-10",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49377,
+                    8.70544
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-03-10",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49377,
+                    8.70544
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-03-17",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49377,
+                    8.70544
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-03-18",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49377,
+                    8.70544
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-03-18",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-03",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-03",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-03",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-06",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-06",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-06",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-07",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-07",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-07",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49307,
+                    8.70573
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-07",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.49307,
+                    8.70573
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-11",
+                "locality": "RINCON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-15",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-15",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-15",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-16",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-28",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-28",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-28",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-30",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-30",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.572084,
+                    10.738537
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-30",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.587722,
+                    8.458567
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-22T08:37:10",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.587044,
+                    8.458845
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-08T17:13:22",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.588478,
+                    8.463374
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-04-22T14:30:01",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-05-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-05-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-05-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-05-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-05-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.560203,
+                    10.763197
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-05-24",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.543663,
+                    8.551713
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-06-13T15:54:06",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.119168,
+                    10.294274
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-07-07T13:49:49",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.792093,
+                    10.351244
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-07-21T10:43:41",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.136722,
+                    8.81664
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2022-08-02T16:46:07",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.664421,
+                    8.642761
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-01-10T19:51Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55255,
+                    8.704
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-03-04",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.265757,
+                    8.732302
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-03-07T07:51",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-10",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-12",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-12",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-12",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-12",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-12",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-18",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-18",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-30",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-30",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.685433,
+                    10.514238
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-09T15:56:34",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.61128,
+                    10.377738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-04-04T12:15Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-05-07",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.52418,
+                    8.73739
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-05-22",
+                "locality": "BAJO SAN JUAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.619334,
+                    10.836068
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-06-03T17:30:22",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-07-05",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-07-29",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5949,
+                    10.726964
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-07-29",
+                "locality": "Estaciz\u0005xperimental Forestal Horizontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.720297,
+                    8.632044
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-07-15T16:22:29Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.327498,
+                    8.408661
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-08-11T10:22:36Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.80044,
+                    10.295727
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-09-06T18:53",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.731624,
+                    8.640474
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-09-05T10:38",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.800993,
+                    10.29174
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-09-06T18:53:16",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.728829,
+                    8.631942
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-12-21T03:30:19",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.941417,
+                    9.342408
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-12-30T19:07:28Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.730026,
+                    8.627857
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2021-12-06T09:18:08",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.520869,
+                    9.732353
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-01-20T12:29",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.876113,
+                    9.52825
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-01-08T09:52:42",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.731705,
+                    8.620622
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-01-26T11:57:13Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.33003,
+                    8.4068
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-01-09T12:51",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.272008,
+                    8.710681
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-02-15",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.673167,
+                    10.355167
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-03-07T14:56:40",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.628635,
+                    8.557283
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-03-06T10:31:28Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.32932,
+                    8.40959
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-03-24T12:37",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50166,
+                    8.69623
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-07-31",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.339722,
+                    8.406944
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2020-08-29T07:08:50Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-01-01",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-01-01",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-01-01",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-02-14",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-02-14",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-03-14",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-03-14",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57434,
+                    8.68475
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-03-26",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.343176,
+                    8.411309
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-03-27T16:53:28",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-01",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-01",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-01",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-01",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-01",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-01",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-02",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-02",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-02",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-02",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-03",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-17",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-23",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-29",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.862023,
+                    9.980606
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-24T02:12:33",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.5835,
+                    8.68927
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-16",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.5835,
+                    8.68927
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-16",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.5835,
+                    8.68927
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-04-16",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39588,
+                    8.74224
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-01",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-02",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-02",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-08",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-10",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-10",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-10",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-17",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-17",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-17",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-17",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-17",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-17",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-18",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-18",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-18",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-24",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-24",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-24",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-29",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39588,
+                    8.74224
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-29",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.55246,
+                    8.70394
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-05-30",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-06-25",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.58411,
+                    8.67738
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-06-02",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-06-07",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-06-07",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-06-07",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.57298,
+                    8.67672
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-06-13",
+                "locality": "RANCHO QUEMADO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.670325,
+                    10.35192
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-06-16T09:55:39",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2019-07-20",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.731718,
+                    8.640454
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-01-16T08:50",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.733795,
+                    8.62018
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-02-12T02:57:07",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40298,
+                    8.74121
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-02-25",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.26441,
+                    9.868272
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-02-16T09:01",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.733872,
+                    8.620208
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-02-12T09:57:13",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-03-15",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-03-25",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-03-25",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-03-25",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-03-25",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-03-25",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50129,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-03-25",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.617054,
+                    10.838058
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-04-02T00:30",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-04-03",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-05-04",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-05-17",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40155,
+                    8.74807
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2018-05-25",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.575916,
+                    8.454176
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-01-16",
+                "locality": "Corcovado NP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.148603,
+                    8.64369
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-01-13T20:17:53",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39592,
+                    8.74223
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-02-22",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39592,
+                    8.74223
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-02-25",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.325221,
+                    8.391172
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-03-20",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.495966,
+                    8.449956
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-03-05T08:44",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7547,
+                    9.5557
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-04-09T10:35",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.761,
+                    9.553
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-04-09T06:51",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7607,
+                    9.5535
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-04-09T06:29",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50128,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-04-28",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50128,
+                    8.69628
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-04-28",
+                "locality": "AGUA BUENA-RINCŒ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39592,
+                    8.74223
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-05-15",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39592,
+                    8.74223
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-06-05",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.769932,
+                    9.582887
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-07-20T12:26:52",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.802146,
+                    10.325961
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-11-04T01:18:08",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.557658,
+                    8.546267
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2017-12-12T11:16:37",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.02203,
+                    10.423268
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2016-03-09T18:48",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.40638,
+                    8.74323
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2016-07-20",
+                "locality": "MOGOS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.567897,
+                    8.450145
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2015-02-19T12:33",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.567897,
+                    8.450145
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2015-02-19T12:26",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.006971,
+                    10.430623
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2015-03-03T12:41",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.593712,
+                    9.792021
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2015-06-26T10:05Z",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.80149,
+                    10.329438
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2015-10-23T11:50",
+                "locality": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.570964,
+                    8.540835
+                ]
+            },
+            "properties": {
+                "species": "Puma concolor",
+                "eventDate": "2014-03-22T08:09",
+                "locality": null
+            }
+        }
+    ]
+}
